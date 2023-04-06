@@ -1,0 +1,1 @@
+Creating this repo since the [source chart](https://artifacthub.io/packages/helm/itscontained/traefik-forward-auth) disappeared off the internet.
