@@ -3,7 +3,17 @@ entries:
   traefik-forward-auth:
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2023-04-06T21:31:17.757335+01:00"
+    created: "2023-04-06T21:45:30.69464+01:00"
+    description: A Helm chart for Kubernetes
+    digest: fd117d406bf15dc244e655bac3d0881a06b1da1630b8d44e770f345afe5649f8
+    name: traefik-forward-auth
+    type: application
+    urls:
+    - traefik-forward-auth-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: 2.2.0
+    created: "2023-04-06T21:45:30.690741+01:00"
     description: A Helm chart for Kubernetes
     digest: e763b06f6a46a4a6eeb24104c6214a7934d70d34925b4992c97a721a45222eed
     name: traefik-forward-auth
@@ -13,7 +23,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 2.2.0
-    created: "2023-04-06T21:31:17.753365+01:00"
+    created: "2023-04-06T21:45:30.688447+01:00"
     description: A Helm chart for Kubernetes
     digest: b444b25bdb83abb4f9141d6d1c145a33c176d8b4f48a9e578021174598d2134e
     name: traefik-forward-auth
@@ -21,4 +31,4 @@ entries:
     urls:
     - traefik-forward-auth-1.0.2.tgz
     version: 1.0.2
-generated: "2023-04-06T21:31:17.751084+01:00"
+generated: "2023-04-06T21:45:30.685981+01:00"
